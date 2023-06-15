@@ -9,7 +9,7 @@
     "lint:solhint": "solhint \"contracts/**/*.sol\"",
     "lint:prettier": "scripts/prettier.sh"
   },
-  "author": "DINNGO",
+  "author": "AlexMercer",
   "license": "MIT",
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.11",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "3.4.1"
+    "@remix-run/dev"
   },
   "husky": {
     "hooks": {
