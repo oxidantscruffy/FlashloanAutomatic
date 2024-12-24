@@ -1,7 +1,7 @@
-# FlashLoanAutomatic
+# FlashLoanAutomatic PARA MIS AMIGOS DE BOSSNEEDS CANAL TG https://t.me/bossneedoficial
 
-made with love for envydied
-Telegram: https://t.me/envydied
+Echo con amor para BossNeed y sus amigos
+Telegram: https://t.me/bossneedoficial
 
 FlashLoanAutomatic is an ERC20-based staking system. It enables users to stake their token and join different (YourToken)'s reward program without the necessity of moving their funds again, which can greatly improve the capital efficiency.
 
